@@ -2,6 +2,13 @@
 
 **Explore MCMC methods with this repository, featuring lecture scripts, workshop slides, and code implementations for efficient sampling.**
 
+<!-- ![Monte Carlo Simulation](src/monte_carlo_simulation.gif =50x50) -->
+<p align="center">
+<img src="src/monte_carlo_simulation.gif" width="175" height="175"/>
+</p>
+
+
+
 ### The contents include:
 📝 Lecture scripts explaining fundamental MCMC concepts.
 
